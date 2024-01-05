@@ -1,21 +1,19 @@
 {"games": {
   "Lostgame": {
     "name":"Lostgame",
-    "icon":"https://raw.githubusercontent.com/SuperGames-D/GameSup/main/lostgame-icon.png" 
+    "icon":"https://raw.githubusercontent.com/SuperGames-D/GameSup/main/lostgame-icon.png",
     "desc":"Are you ready to go on a journey to save the world? Make your way through levels and caves!"
   }, 
   "BluePig": {
     "name":"Blue Pig",
-    "icon":"https://raw.githubusercontent.com/SuperGames-D/GameSup/main/icon-png.png" 
+    "icon":"https://raw.githubusercontent.com/SuperGames-D/GameSup/main/icon-png.png",
     "desc":"Shoot your pig and collect flying carrots, but avoid the dangerous spike balls!"
   },
    "Lostworld": {
     "name":"Lostworld",
-    "icon":"https://raw.githubusercontent.com/SuperGames-D/GameSup/main/lostworld-icon.png" 
+    "icon":"https://raw.githubusercontent.com/SuperGames-D/GameSup/main/lostworld-icon.png",
     "desc":"Go on a journey to find the Ultimate Diamond! Discover 4 different worlds, bonus challenges and an epic bossfight!"
   } 
   
 }
 }
-
-  
